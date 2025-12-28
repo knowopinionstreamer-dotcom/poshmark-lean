@@ -1,6 +1,6 @@
 ---
 tag: [source-code, auto-sync]
-last_synced: 2025-12-28T11:52:10.798Z
+last_synced: 2025-12-28T13:46:55.100Z
 origin: package.json
 ---
 
@@ -72,6 +72,7 @@ origin: package.json
     "@types/node": "^20",
     "@types/react": "^19.2.1",
     "@types/react-dom": "^19.2.1",
+    "autoprefixer": "^10.4.23",
     "genkit-cli": "^1.20.0",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
